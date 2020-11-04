@@ -16,3 +16,6 @@ Better understanding of Grid and Flexbox layout capabilities
 Created utility classes similar to bootstrap in separate css file
 Keyframes animations
 Media Query for tablet and mobile
+
+# Deployed with Netlify
+https://blissful-bohr-9859c1.netlify.app/
