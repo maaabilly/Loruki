@@ -255,8 +255,24 @@ code, pre {
 }
 
 /*** Footer ***/
+.footer .social {
+    display: flex;
+    justify-content: center;
+}
 .footer .social a {
-    margin: 0 10px;
+    margin: 0 15px;
+}
+
+.footer .flex {
+    justify-self: flex-end;
+}
+
+.footer nav li {
+    margin: 5px;
+}
+
+.footer nav li >*:last-child {
+    margin: 0;
 }
 
 /* Animations */
